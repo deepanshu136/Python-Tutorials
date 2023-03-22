@@ -7,10 +7,7 @@ def print_function_data(function):
         return function(*args,**kwargs)
     return wrapper_function
 
-
-
-
-@print_function_data
+-@print_function_data
 def add_function(a,b):
     '''This function takes two argument and returnm their sum'''
     return a+b
