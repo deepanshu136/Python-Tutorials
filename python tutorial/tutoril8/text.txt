@@ -1,0 +1,2 @@
+hello my namen is deepanshu kumar 
+with the help of append can re axis the file and withe write again add whatever we wanted to add in pur file
